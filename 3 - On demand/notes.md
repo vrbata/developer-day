@@ -33,8 +33,8 @@ Mailer.php:12:          string(29) "Mailer method send was called"
 * jako bonus řeší i nezávislost pořadí
 ```php
 // index.php
-$mailer = $container->get(Mailer::class);
-$mailer->send();
+$controller = $container->get(Controller::class);
+$controller->show();
 
 Trace:
 Container.php:9:        string(21) "Container was created"

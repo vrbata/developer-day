@@ -4,7 +4,7 @@ namespace AppBundle;
 
 class Logger
 {
-    private function __construct()
+    public function __construct()
     {
     }
 }

@@ -1,5 +1,1 @@
-Interface
-Ovlivnění konfigurace containeru - service providery, container passy, free containeru - když nelze container modifikovat, kompilace containeru
-Private services a zahazování nepotřebných services
-
-PSR standardy, ContainerAware antipatern
+PSR standardy, ContainerAware antipatern - service locator
