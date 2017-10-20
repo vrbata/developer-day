@@ -35,7 +35,7 @@ dependency-injection/8 - Framework/laravel/app/Logger.php:9:string 'App\Logger w
 
 ## Symfony
 ```php
-developer-day/8 - Framework/symfony/src/AppBundle/Logger.php:9:string 'AppBundle\Logger was created' (length=28)
+dependency-injection/8 - Framework/symfony/src/AppBundle/Logger.php:9:string 'AppBundle\Logger was created' (length=28)
 ```
 ```php
 protected function getAppBundle_Controller_HomeControllerService()

@@ -1,4 +1,4 @@
-#Singleton
+#Shared services
 ## Problém
 * container vždy vytváří novou instanci třídy i když by nemusel
 
