@@ -2,5 +2,5 @@
 
 require_once __DIR__ . '/bootstrap.php';
 
-$mailer = $container->get(Mailer::class);
+$mailer = $container[Mailer::class];
 echo $mailer->send();
